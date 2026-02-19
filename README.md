@@ -13,12 +13,11 @@ $ jvm use 25 -p
 Now using java 25 /c/Program Files/Java/jdk-25
 
 ```
-
+---
 ## Pre-requisitos:
 - Ter instalado o Git Bash (`jvm` não possui suporte para cmd)
 - Ter instalado a versao do java 17, 21 ou 25
   
-
 ## Como usar:
 
 ### Crie o arquivo ~/.jvm 
@@ -102,6 +101,8 @@ Resultado:
 ```
 Now using java 21
 ```
+
+---
 
 ## Adicionando novas versoes:
 ### Abra o arquivo ~/.jvm 
